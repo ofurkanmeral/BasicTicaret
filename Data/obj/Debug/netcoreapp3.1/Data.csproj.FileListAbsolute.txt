@@ -1,0 +1,45 @@
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\Data\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\Data\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\PUSULA10\source\repos\PusulaPlus\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\PUSULA10\source\repos\PusulaPlus\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\PUSULA10\source\repos\PusulaPlus\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\PUSULA10\source\repos\PusulaPlus\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\PUSULA10\source\repos\PusulaPlus\Data\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\Data\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\PUSULA10\source\repos\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\PUSULA10\source\repos\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\PUSULA10\source\repos\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\PUSULA10\source\repos\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\PUSULA10\source\repos\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\PUSULA10\source\repos\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\PUSULA10\source\repos\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\Data\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\Data\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache

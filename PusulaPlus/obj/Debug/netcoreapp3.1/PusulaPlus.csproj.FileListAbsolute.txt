@@ -1,0 +1,377 @@
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.exe
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.deps.json
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.runtimeconfig.json
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.runtimeconfig.dev.json
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.pdb
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.Views.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.Views.pdb
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.csproj.AssemblyReference.cache
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.AssemblyInfoInputs.cache
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.AssemblyInfo.cs
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.csproj.CoreCompileInputs.cache
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.RazorAssemblyInfo.cache
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.RazorAssemblyInfo.cs
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\staticwebassets\PusulaPlus.StaticWebAssets.Manifest.cache
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\staticwebassets\PusulaPlus.StaticWebAssets.xml
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\scopedcss\bundle\PusulaPlus.styles.css
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.TagHelpers.input.cache
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.TagHelpers.output.cache
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.RazorCoreGenerate.cache
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.RazorTargetAssemblyInfo.cache
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.RazorTargetAssemblyInfo.cs
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.Views.pdb
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.pdb
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.genruntimeconfig.cache
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.csproj.CopyComplete
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_yesproduct.cshtml.g.cs
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_category.cshtml.g.cs
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detail.cshtml.g.cs
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Home\liste.cshtml.g.cs
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Home\create.cshtml.g.cs
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Home\edit.cshtml.g.cs
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Bussines.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Bussines.pdb
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Again\Index.cshtml.g.cs
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Again\Detay.cshtml.g.cs
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Again\detail.cshtml.g.cs
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Again\liste.cshtml.g.cs
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\PUSULAPLUS15\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.csproj.AssemblyReference.cache
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.AssemblyInfoInputs.cache
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.AssemblyInfo.cs
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.csproj.CoreCompileInputs.cache
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.RazorAssemblyInfo.cache
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.RazorAssemblyInfo.cs
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.exe
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.deps.json
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.runtimeconfig.json
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.runtimeconfig.dev.json
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.pdb
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.Views.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.Views.pdb
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Bussines.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Bussines.pdb
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\staticwebassets\PusulaPlus.StaticWebAssets.Manifest.cache
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\staticwebassets\PusulaPlus.StaticWebAssets.xml
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\scopedcss\bundle\PusulaPlus.styles.css
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.TagHelpers.input.cache
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.TagHelpers.output.cache
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.RazorCoreGenerate.cache
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Again\detail.cshtml.g.cs
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Again\Detay.cshtml.g.cs
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Again\Index.cshtml.g.cs
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Again\liste.cshtml.g.cs
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Home\create.cshtml.g.cs
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detail.cshtml.g.cs
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Home\edit.cshtml.g.cs
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Home\liste.cshtml.g.cs
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_category.cshtml.g.cs
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_yesproduct.cshtml.g.cs
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.RazorTargetAssemblyInfo.cache
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.RazorTargetAssemblyInfo.cs
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.Views.pdb
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.csproj.CopyComplete
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.dll
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.pdb
+C:\Users\PUSULA10\source\repos\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.genruntimeconfig.cache
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.exe
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.deps.json
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.runtimeconfig.json
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.runtimeconfig.dev.json
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.pdb
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.Views.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\PusulaPlus.Views.pdb
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Bussines.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Bussines.pdb
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.csprojAssemblyReference.cache
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.AssemblyInfoInputs.cache
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.AssemblyInfo.cs
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.csproj.CoreCompileInputs.cache
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.RazorAssemblyInfo.cache
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.RazorAssemblyInfo.cs
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\staticwebassets\PusulaPlus.StaticWebAssets.Manifest.cache
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\staticwebassets\PusulaPlus.StaticWebAssets.xml
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\scopedcss\bundle\PusulaPlus.styles.css
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.TagHelpers.input.cache
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.TagHelpers.output.cache
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.RazorCoreGenerate.cache
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Again\detail.cshtml.g.cs
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Again\Index.cshtml.g.cs
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Again\liste.cshtml.g.cs
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Home\create.cshtml.g.cs
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detail.cshtml.g.cs
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Home\edit.cshtml.g.cs
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Home\liste.cshtml.g.cs
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_category.cshtml.g.cs
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_yesproduct.cshtml.g.cs
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.RazorTargetAssemblyInfo.cache
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.RazorTargetAssemblyInfo.cs
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.Views.pdb
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.csproj.CopyComplete
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.dll
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.pdb
+C:\Users\Onur Furkan Meral\Desktop\PusulaPlus\PusulaPlus\obj\Debug\netcoreapp3.1\PusulaPlus.genruntimeconfig.cache

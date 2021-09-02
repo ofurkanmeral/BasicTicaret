@@ -1,0 +1,26 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model ProductViewModel
+@{
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+
+    
+        @foreach (var iter in Model.products)
+        {
+
+            <div class="card col-md-3">
+                <div class="card-body">
+
+                    <img style="height:200px;width:150px" class="card-img-top" src="https://media.istockphoto.com/vectors/smart-phone-realistic-mobile-phone-smartphone-with-blank-screen-on-vector-id834343646" />
+
+                    <h5 class="card-title">@iter.name</h5>
+                    <p class="card-text">@iter.image</p>
+                    <a href="/@iter.Url" class="btn btn-secondary">İncele</a>
+                </div>
+            </div>
+
+        }
+    
+
+        }

@@ -1,0 +1,19 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model ProductDetailModel
+@{
+    <div class="card-body">
+
+        <img style="height:200px;width:150px" class="card-img-top" src="https://media.istockphoto.com/vectors/smart-phone-realistic-mobile-phone-smartphone-with-blank-screen-on-vector-id834343646" />
+
+        <h5 class="card-title">@Model.Product.name</h5>
+        <p class="card-text">@Model.Product.image</p>
+        @foreach(var iter in Model.Categories)
+        {
+            <li>@iter.name</li>
+        }
+      
+        <a href="#" class="btn btn-secondary">İncele</a>
+    </div>
+}
